@@ -8,4 +8,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-juliasz-de-morais/)](https://www.linkedin.com/in/joao-juliasz-de-morais/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaojuliaszdemorais@gmail.com)](mailto:joaojuliaszdemorais@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like to do sport everyday
+
+## Experiences
+
+- **Programming languages**: Javascript, Typescript, NodeJs.
+- **Frameworks**:
+   - **Web**: ReactJs, jQuery, Redux
+   - **Test**: Jest, Enzyme, Supertest.
+- **Databases**:
+   - **NoSQL**: MongoDB.
+   - **SQL**: MySQL, Postgres.
