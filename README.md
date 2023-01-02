@@ -11,8 +11,9 @@
 
 ## Experiences
 
-- **Programming languages**: Javascript, Typescript, NodeJs.
+- **Programming languages**: Javascript, Typescript.
 - **Frameworks**:
+   - **Runtime**: NodeJs 
    - **Web**: ReactJs, jQuery, Redux
    - **Test**: Jest, Enzyme, Supertest.
 - **Databases**:
