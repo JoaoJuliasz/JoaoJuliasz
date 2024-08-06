@@ -1,7 +1,7 @@
 ### Hi there, I'm João Juliasz 👋
 
 
-- 🔭 I’m currently working on Looqbox
+- 🔭 I’m currently working on Kolab
 - 🌱 I’m currently learning Java and Kotlin
 - 💬 Ask me about Javascript and any tech related stuff
 - 📫 How to reach me: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoJuliasz)](https://github.com/JoaoJuliasz)
